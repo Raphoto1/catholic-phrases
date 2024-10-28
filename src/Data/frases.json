@@ -1,0 +1,1493 @@
+[
+  { "id": 1, "frase": "Dios nunca te pedirá algo que no puedas manejar.", "autor": "Mateo 19:26" },
+  { "id": 2, "frase": "Confía en el Señor con todo tu corazón y no te apoyes en tu propia inteligencia.", "autor": "Proverbios 3:5" },
+  { "id": 3, "frase": "El amor todo lo puede, todo lo soporta.", "autor": "1 Corintios 16:14" },
+  { "id": 4, "frase": "Tengan fe en Dios, siempre confíen en su amor incondicional.", "autor": "Salmos 27:1" },
+  { "id": 5, "frase": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios.", "autor": "Isaías 41:10" },
+  { "id": 6, "frase": "Ama a tu prójimo como a ti mismo.", "autor": "Marcos 12:31" },
+  { "id": 7, "frase": "La paz les dejo, mi paz les doy.", "autor": "Juan 14:27" },
+  { "id": 8, "frase": "Encomienda al Señor tu camino; confía en Él y Él actuará.", "autor": "Salmos 37:5" },
+  { "id": 9, "frase": "No juzgues para no ser juzgado.", "autor": "Mateo 7:1" },
+  { "id": 10, "frase": "Busca primero el Reino de Dios y lo demás vendrá por añadidura.", "autor": "Mateo 6:33" },
+  { "id": 11, "frase": "Dios no te hubiera dado esa batalla si Él no supiera que tú puedes ganarla.", "autor": null },
+  { "id": 12, "frase": "La fe no hace las cosas fáciles, las hace posibles.", "autor": null },
+  { "id": 13, "frase": "El amor de Dios es como el mar, siempre profundo y nunca acabado.", "autor": null },
+  { "id": 14, "frase": "No temas, yo estoy contigo todos los días de tu vida.", "autor": null },
+  { "id": 15, "frase": "Ora y deja que Dios tome el control.", "autor": null },
+  { "id": 16, "frase": "El alma se conoce por sus actos.", "autor": "Santo Tomás de Aquino" },
+  { "id": 17, "frase": "Donde no hay amor, pon amor y sacarás amor.", "autor": "San Juan de la Cruz" },
+  { "id": 18, "frase": "El que no vive para servir, no sirve para vivir.", "autor": "Madre Teresa de Calcuta" },
+  { "id": 19, "frase": "El único amor que nunca cambia y nunca falla es el de Dios.", "autor": null },
+  { "id": 20, "frase": "Conserva la esperanza, déjate sorprender por Dios y vive con alegría.", "autor": null },
+  { "id": 21, "frase": "El mejor lugar para buscar pareja es la oración.", "autor": null },
+  { "id": 22, "frase": "Refrena tu enojo, abandona la ira; no te irrites, pues esto conduce al mal.", "autor": "Salmos 37:8" },
+  { "id": 23, "frase": "Con la medida con que midiereis se os medirá y se os dará con creces.", "autor": "Marcos 4:27" },
+  { "id": 24, "frase": "La fe no hace que las cosas sean fáciles, hace que sean posibles.", "autor": "Lucas 1:37" },
+  { "id": 25, "frase": "Quien a Dios tiene, nadie le falta: solo Dios basta.", "autor": "Santa Teresa de Ávila" },
+  { "id": 26, "frase": "Vive este día con la certeza de que Dios está contigo.", "autor": null },
+  { "id": 27, "frase": "Mi felicidad es Cristo, y mi vida está con él.", "autor": null },
+  { "id": 28, "frase": "En ti se halla el manantial de la vida, y por tu luz podemos ver la luz.", "autor": "Salmos 36:9" },
+  { "id": 29, "frase": "A veces las noches más oscuras anuncian los amaneceres más hermosos. ¡Confía!", "autor": null },
+  { "id": 30, "frase": "No importa cuánto tiempo lleve, cuando Dios trabaja, siempre vale la pena la espera.", "autor": null },
+  { "id": 31, "frase": "Dios no te dejará caer.", "autor": "Deuteronomio 31:6" },
+  { "id": 32, "frase": "Los obstáculos son enseñanzas para el espíritu.", "autor": "Santa Rita de Casia" },
+  { "id": 33, "frase": "Cuando creemos en Dios, Él permanece a nuestro lado y nos protege de todo mal.", "autor": null },
+  { "id": 34, "frase": "Amarás a tu prójimo como a ti mismo.", "autor": "Mateo 22:39" },
+  { "id": 35, "frase": "Un cristiano sin rosario, ¡es un soldado sin armas!", "autor": "San Pío" },
+  { "id": 36, "frase": "Dios sabe que aunque tú no lo comprendas, Él es tu fortaleza en tiempos de aflicción.", "autor": null },
+  { "id": 37, "frase": "Mi paz, mi consuelo, mi todo. Dios eres tú.", "autor": null },
+  { "id": 38, "frase": "Eres mi dulce alimento, mi sangre, mi fe y mi esperanza, Señor.", "autor": null },
+  { "id": 39, "frase": "Ora más, preocúpate menos.", "autor": null },
+  { "id": 40, "frase": "Dios no me ha llamado a tener éxito. Él me llamó a tener fe.", "autor": "Madre Teresa de Calcuta" },
+  { "id": 41, "frase": "El amor se ha de poner más en las obras que en las palabras.", "autor": "San Ignacio de Loyola" },
+  { "id": 42, "frase": "Dios no rechaza oración.", "autor": "1 Reyes 8:28" },
+  { "id": 43, "frase": "Deja que tu fe sea más grande que tus miedos.", "autor": null },
+  { "id": 44, "frase": "Fe es una palabra muy pequeña, pero tiene la capacidad de mover montañas.", "autor": null },
+  { "id": 45, "frase": "¡No entierren los talentos! ¡No tengan miedo de soñar con cosas grandes!", "autor": "Papa Francisco" },
+  { "id": 46, "frase": "Seguir a Jesús. Nadie dijo que iba a ser fácil. Esto es para valientes.", "autor": null },
+  { "id": 47, "frase": "Dale a Dios tu debilidad y Él te dará su fortaleza.", "autor": null },
+  { "id": 48, "frase": "Dios está siempre dispuesto a perdonarnos, solo debemos acudir a Él con un corazón arrepentido.", "autor": "San Juan Bosco" },
+  { "id": 49, "frase": "La verdadera grandeza no radica en tener mucho, sino en dar mucho.", "autor": "San Juan Pablo II" },
+  {
+    "id": 50,
+    "frase": "No tengas miedo, abre las puertas de tu corazón a Cristo y dejarás que entre en tu vida la verdadera felicidad.",
+    "autor": "Papa Benedicto XVI"
+  },
+  { "id": 51, "frase": "La medida del amor es amar sin medida.", "autor": "San Agustín" },
+  { "id": 52, "frase": "Dios es más íntimo a mí que yo mismo.", "autor": "San Agustín" },
+  { "id": 53, "frase": "La fe es creer lo que no ves; la recompensa de esta fe es ver lo que crees.", "autor": "San Agustín" },
+  { "id": 54, "frase": "Ama y haz lo que quieras.", "autor": "San Agustín" },
+  { "id": 55, "frase": "La oración es la fuerza del hombre y la debilidad de Dios.", "autor": "San Agustín" },
+  { "id": 56, "frase": "El que tiene caridad en su corazón, siempre encuentra algo que dar.", "autor": "San Agustín" },
+  { "id": 57, "frase": "La paciencia es la compañera de la sabiduría.", "autor": "San Agustín" },
+  {
+    "id": 58,
+    "frase": "Dios no manda cosas imposibles, sino que al mandar lo que manda, te invita a hacer lo que puedas y pedir lo que no puedas.",
+    "autor": "San Agustín"
+  },
+  { "id": 59, "frase": "La humildad es la base y el fundamento de todas las virtudes.", "autor": "San Agustín" },
+  { "id": 60, "frase": "El mundo es un libro, y aquellos que no viajan leen solo una página.", "autor": "San Agustín" },
+  { "id": 61, "frase": "La paz es la tranquilidad en el orden.", "autor": "San Agustín" },
+  {
+    "id": 62,
+    "frase": "La fe y la razón son como dos alas con las cuales el espíritu humano se eleva hacia la contemplación de la verdad.",
+    "autor": "San Juan Pablo II"
+  },
+  { "id": 63, "frase": "El futuro empieza hoy, no mañana.", "autor": "San Juan Pablo II" },
+  { "id": 64, "frase": "La libertad no consiste en hacer lo que nos gusta, sino en tener el derecho de hacer lo que debemos.", "autor": "San Juan Pablo II" },
+  { "id": 65, "frase": "No hay paz sin justicia, no hay justicia sin perdón.", "autor": "San Juan Pablo II" },
+  { "id": 66, "frase": "El amor explica todo y da sentido a todo.", "autor": "San Juan Pablo II" },
+  { "id": 67, "frase": "El hombre no puede vivir sin amor.", "autor": "San Juan Pablo II" },
+  {
+    "id": 68,
+    "frase": "La familia es base de la sociedad y el lugar donde las personas aprenden por vez primera los valores que les guían durante toda su vida.",
+    "autor": "San Juan Pablo II"
+  },
+  { "id": 69, "frase": "La paz exige cuatro condiciones esenciales: Verdad, justicia, amor y libertad.", "autor": "San Juan Pablo II" },
+  { "id": 70, "frase": "La fe no hace las cosas fáciles, hace que sean posibles.", "autor": "Lucas 1:37" },
+  { "id": 71, "frase": "Bienaventurados los que lloran, porque ellos recibirán consolación.", "autor": "Lucas 6:21" },
+  { "id": 72, "frase": "El que es fiel en lo muy poco, también en lo más es fiel.", "autor": "Lucas 16:10" },
+  { "id": 73, "frase": "El que no está conmigo, está contra mí; y el que no recoge conmigo, desparrama.", "autor": "Lucas 11:23" },
+  { "id": 74, "frase": "El que se humilla será ensalzado.", "autor": "Lucas 14:11" },
+  { "id": 75, "frase": "El que no lleva su cruz y viene en pos de mí, no puede ser mi discípulo.", "autor": "Lucas 14:27" },
+  { "id": 76, "frase": "El que no recibe el reino de Dios como un niño, no entrará en él.", "autor": "Lucas 18:17" },
+  {
+    "id": 77,
+    "frase": "El que no aborrece a su padre y madre, mujer e hijos, hermanos y hermanas, y aun también su propia vida, no puede ser mi discípulo.",
+    "autor": "Lucas 14:26"
+  },
+  { "id": 78, "frase": "El que no está contra nosotros, por nosotros es.", "autor": "Lucas 9:50" },
+  { "id": 79, "frase": "El que no tiene, aun lo que tiene le será quitado.", "autor": "Lucas 19:26" },
+  { "id": 80, "frase": "El bien puede existir sin el mal, mientras que el mal no puede existir sin el bien.", "autor": "Santo Tomás de Aquino" },
+  { "id": 81, "frase": "Teme al hombre de un solo libro.", "autor": "Santo Tomás de Aquino" },
+  {
+    "id": 82,
+    "frase": "Los seres dotados de inteligencia desean existir siempre y un deseo natural no puede existir en vano.",
+    "autor": "Santo Tomás de Aquino"
+  },
+  { "id": 83, "frase": "El estudioso es el que lleva a los demás a lo que él ha comprendido: la verdad.", "autor": "Santo Tomás de Aquino" },
+  {
+    "id": 84,
+    "frase": "Existen bienes particulares que no poseen relación necesaria con la felicidad, ya que sin ellos uno puede ser feliz.",
+    "autor": "Santo Tomás de Aquino"
+  },
+  {
+    "id": 85,
+    "frase": "Para ser voluntario un acto, ha de proceder de un principio intrínseco con algún conocimiento del fin.",
+    "autor": "Santo Tomás de Aquino"
+  },
+  {
+    "id": 86,
+    "frase": "Si el objetivo más alto de un capitán fuera preservar su barco, lo mantendría en el puerto por siempre.",
+    "autor": "Santo Tomás de Aquino"
+  },
+  {
+    "id": 87,
+    "frase": "Creer es un acto del entendimiento que asiente a la verdad divina por imperio de la voluntad movida por Dios mediante la gracia.",
+    "autor": "Santo Tomás de Aquino"
+  },
+  {
+    "id": 88,
+    "frase": "La fe se refiere a las cosas que no se ven, y la esperanza a las cosas que no están al alcance de la mano.",
+    "autor": "Santo Tomás de Aquino"
+  },
+  { "id": 89, "frase": "El derecho es lo justo o ajustado a otro conforme cierta clase de igualdad.", "autor": "Santo Tomás de Aquino" },
+  {
+    "id": 90,
+    "frase": "El amor conduce a la felicidad. Sólo a los que lo tienen se les promete la bienaventuranza eterna. Y sin él, todo lo demás resulta insuficiente.",
+    "autor": "Santo Tomás de Aquino"
+  },
+  { "id": 91, "frase": "El pecado ofende a Dios lo que perjudica al hombre.", "autor": "Santo Tomás de Aquino" },
+  { "id": 92, "frase": "Todo lo que es verdad, sea quien sea quien lo haya dicho, tiene su origen en el espíritu.", "autor": "Santo Tomás de Aquino" },
+  { "id": 93, "frase": "Cada hombre tiene que inventar su camino.", "autor": "Santo Tomás de Aquino" },
+  { "id": 94, "frase": "El amor no es una pasión, porque ninguna virtud es pasión y todo amor es «cierta virtud».", "autor": "Santo Tomás de Aquino" },
+  { "id": 95, "frase": "Tratad a los demás como deseáis que los demás os traten a vosotros.", "autor": "Santo Tomás de Aquino" },
+  { "id": 96, "frase": "La humildad es la base y el fundamento de todas las virtudes.", "autor": "Santo Tomás de Aquino" },
+  {
+    "id": 97,
+    "frase": "Dios no manda cosas imposibles, sino que al mandar lo que manda, te invita a hacer lo que puedas y pedir lo que no puedas.",
+    "autor": "Santo Tomás de Aquino"
+  },
+  { "id": 98, "frase": "La paciencia es la compañera de la sabiduría.", "autor": "Santo Tomás de Aquino" },
+  { "id": 99, "frase": "El que tiene caridad en su corazón, siempre encuentra algo que dar.", "autor": "Santo Tomás de Aquino" },
+  {
+    "id": 100,
+    "frase": "La fe es la cosa más poderosa que existe en el universo.",
+    "autor": "Nikola Tesla"
+  },
+  {
+    "id": 101,
+    "frase": "La fe es la verdad que se ve con el corazón.",
+    "autor": "Victor Hugo"
+  },
+  {
+    "id": 102,
+    "frase": "La fe es la fuerza que mueve el mundo.",
+    "autor": "Mahatma Gandhi"
+  },
+  {
+    "id": 103,
+    "frase": "La fe es la esperanza que sostiene el mundo.",
+    "autor": "J.R.R. Tolkien"
+  },
+  {
+    "id": 104,
+    "frase": "La fe es la llave que abre la puerta de la vida.",
+    "autor": "A.W. Tozer"
+  },
+  {
+    "id": 105,
+    "frase": "La fe es la fuerza que vence al mundo.",
+    "autor": "1 Juan 5:4"
+  },
+  {
+    "id": 106,
+    "frase": "La fe es la esperanza que no se engaña.",
+    "autor": "Corintios 13:7"
+  },
+  {
+    "id": 107,
+    "frase": "La fe es el camino, la verdad y la vida.",
+    "autor": "1 Juan 2:24"
+  },
+  {
+    "id": 108,
+    "frase": "La fe es la fuente de la vida.",
+    "autor": "Eclesiastés 12:14"
+  },
+  {
+    "id": 109,
+    "frase": "La fe es la fuerza que vence al miedo.",
+    "autor": "2 Tesis 1:7"
+  },
+  {
+    "id": 110,
+    "frase": "La fe es la llave que abre la puerta del paraíso.",
+    "autor": "Apocalipsis 3:20"
+  },
+  {
+    "id": 111,
+    "frase": "La fe es la fuerza que vence al dolor.",
+    "autor": "Romanos 8:18"
+  },
+  {
+    "id": 112,
+    "frase": "La fe es la llave que abre la puerta del cielo.",
+    "autor": "Apocalipsis 3:7"
+  },
+  {
+    "id": 113,
+    "frase": "La fe es la fuerza que vence al hambre y la sed.",
+    "autor": "Mateo 4:4"
+  },
+  {
+    "id": 114,
+    "frase": "La fe es la llave que abre la puerta de la salvación.",
+    "autor": "Efésios 2:8"
+  },
+  {
+    "id": 115,
+    "frase": "La fe es la fuerza que vence al mal.",
+    "autor": "1 Juan 5:4"
+  },
+  {
+    "id": 116,
+    "frase": "La fe es la llave que abre la puerta del paraíso.",
+    "autor": "Apocalipsis 20:6"
+  },
+  {
+    "id": 117,
+    "frase": "La fe es la fuerza que vence al miedo.",
+    "autor": "James 2:19"
+  },
+  {
+    "id": 118,
+    "frase": "La fe es la llave que abre la puerta de la salvación.",
+    "autor": "Efésios 2:8"
+  },
+  {
+    "id": 119,
+    "frase": "La fe es la fuerza que vence al mal.",
+    "autor": "1 Juan 5:4"
+  },
+  {
+    "id": 120,
+    "frase": "La fe es la llave que abre la puerta del cielo.",
+    "autor": "Apocalipsis 3:7"
+  },
+  {
+    "id": 121,
+    "frase": "Dios es el creador de todo.",
+    "autor": "Génesis 1:1"
+  },
+  {
+    "id": 122,
+    "frase": "Dios es el amor eterno.",
+    "autor": "1 Juan 4:16"
+  },
+  {
+    "id": 123,
+    "frase": "Dios es el santuario de todas las cosas.",
+    "autor": "Isaías 6:3"
+  },
+  {
+    "id": 124,
+    "frase": "Dios es el senor de todo.",
+    "autor": "Salmo 115:3"
+  },
+  {
+    "id": 125,
+    "frase": "Dios es el creador de todo el universo.",
+    "autor": "Hebrews 11:3"
+  },
+  {
+    "id": 126,
+    "frase": "Dios es el más grande de todos los seres.",
+    "autor": "Isaías 40:18"
+  },
+  {
+    "id": 127,
+    "frase": "Dios es el creador de las almas.",
+    "autor": "Salmo 139:13"
+  },
+  {
+    "id": 128,
+    "frase": "Dios es el creador del tiempo.",
+    "autor": "Júbilo 2:10"
+  },
+  {
+    "id": 129,
+    "frase": "Dios es el creador de la vida.",
+    "autor": "Salmo 104:29"
+  },
+  {
+    "id": 130,
+    "frase": "Dios es el creador del cielo.",
+    "autor": "Génesis 1:8"
+  },
+  {
+    "id": 131,
+    "frase": "Dios es el creador de la tierra.",
+    "autor": "Génesis 1:10"
+  },
+  {
+    "id": 132,
+    "frase": "Dios es el creador de todo lo visible.",
+    "autor": "Colosenses 1:16"
+  },
+  {
+    "id": 133,
+    "frase": "Dios es el creador de todo lo invisible.",
+    "autor": "Colosenses 1:17"
+  },
+  {
+    "id": 134,
+    "frase": "Dios es el creador de la gracia.",
+    "autor": "Efésios 3:2"
+  },
+  {
+    "id": 135,
+    "frase": "Dios es el creador de la luz.",
+    "autor": "Génesis 1:3"
+  },
+  {
+    "id": 136,
+    "frase": "Dios es el creador de la luz y de la vida.",
+    "autor": "Salmo 36:9"
+  },
+  {
+    "id": 137,
+    "frase": "Dios es el creador de la fe.",
+    "autor": "Efésios 2:8"
+  },
+  {
+    "id": 138,
+    "frase": "Dios es el creador de la esperanza.",
+    "autor": "Romanos 15:13"
+  },
+  {
+    "id": 139,
+    "frase": "Dios es el creador de la bondad.",
+    "autor": "Salmo 34:8"
+  },
+  {
+    "id": 140,
+    "frase": "Dios es el creador de la justicia.",
+    "autor": "Salmo 89:14"
+  },
+  {
+    "id": 141,
+    "frase": "Dios es el creador de la verdad.",
+    "autor": "Pablo de Tarso 2:5"
+  },
+  {
+    "id": 142,
+    "frase": "Dios es el creador de la salvación.",
+    "autor": "Salmo 3:8"
+  },
+  {
+    "id": 143,
+    "frase": "Dios es el creador de la misericordia.",
+    "autor": "Salmo 136:1"
+  },
+  {
+    "id": 144,
+    "frase": "Dios es el creador de la paz.",
+    "autor": "Isaías 9:6"
+  },
+  {
+    "id": 145,
+    "frase": "Dios es el creador de la santidad.",
+    "autor": "Isaías 6:3"
+  },
+  {
+    "id": 146,
+    "frase": "Dios es el creador de la gracia.",
+    "autor": "Efésios 3:2"
+  },
+  {
+    "id": 147,
+    "frase": "Dios es el creador de la gloria.",
+    "autor": "1 Corintios 15:43"
+  },
+  {
+    "id": 148,
+    "frase": "Dios es el creador de la felicidad.",
+    "autor": "1 Tesalonicenses 1:4"
+  },
+  {
+    "id": 149,
+    "frase": "Dios es el creador de la sabiduría.",
+    "autor": "Salmo 104:24"
+  },
+  {
+    "id": 150,
+    "frase": "Dios es el creador de la inteligencia.",
+    "autor": "Salmo 104:24"
+  },
+  {
+    "id": 151,
+    "frase": "El amor católico es el amor que Dios tiene por nosotros y que nosotros debemos tener entre nosotros y hacia él.",
+    "autor": "Papa Juan Pablo II"
+  },
+  {
+    "id": 152,
+    "frase": "El amor católico es un amor auténtico, sincero y permanente que se basa en la fe y la gracia divinas.",
+    "autor": "Papa Benedicto XVI"
+  },
+  {
+    "id": 153,
+    "frase": "El amor católico es el amor que Dios nos inspira y que debemos practicar en todos los aspectos de nuestra vida.",
+    "autor": "Papa Juan XXIII"
+  },
+  {
+    "id": 154,
+    "frase": "El amor católico es el amor que nos inspira la fe en Cristo y que debemos practicar en nuestras relaciones con los demás.",
+    "autor": "Papa Pío XII"
+  },
+  {
+    "id": 155,
+    "frase": "Dios es la fuente de todo amor y de toda bondad.",
+    "autor": "Papa Juan Pablo II"
+  },
+  {
+    "id": 156,
+    "frase": "Dios es el Creador de todo y el Rey de todo.",
+    "autor": "Papa Benedicto XVI"
+  },
+  {
+    "id": 157,
+    "frase": "Dios es el Padre infinito de todo bien y de todas las gracias.",
+    "autor": "San Francisco de Asís"
+  },
+  {
+    "id": 158,
+    "frase": "Dios es el Amor Eterno y la Justicia Infinita.",
+    "autor": "San Ignacio de Loyola"
+  },
+  {
+    "id": 159,
+    "frase": "Dios es el Ser Supremo, el Creador de todo y el Maestro de todos los misterios.",
+    "autor": "San Juan Damasceno"
+  },
+  {
+    "id": 160,
+    "frase": "Dios es todo el poder y toda la sabiduría.",
+    "autor": "Santo Tomás de Aquino"
+  },
+  {
+    "id": 161,
+    "frase": "Dios es el Amor Infinito y la Perfección Suprema.",
+    "autor": "San Agustín"
+  },
+  {
+    "id": 162,
+    "frase": "Dios es el Padre de todas las almas y el Amigo de todos los hombres.",
+    "autor": "San Francisco de Sales"
+  },
+  {
+    "id": 163,
+    "frase": "Dios es el Amor de la fe, la esperanza y la caridad.",
+    "autor": "Santa Teresa de Ávila"
+  },
+  {
+    "id": 164,
+    "frase": "Dios es el Amor de la verdad y la justicia.",
+    "autor": "San Pedro de Alcántara"
+  },
+  {
+    "id": 165,
+    "frase": "Dios es el Amor de la unidad y la armonía.",
+    "autor": "San Juan Crisóstomo"
+  },
+  {
+    "id": 166,
+    "frase": "Dios es el Amor de la libertad y la dignidad.",
+    "autor": "San José Obispo"
+  },
+  {
+    "id": 167,
+    "frase": "Dios es el Amor de la paz y la tranquilidad.",
+    "autor": "Santa Inés"
+  },
+  {
+    "id": 168,
+    "frase": "Dios es el Amor de la misericordia y la compasión.",
+    "autor": "San Juan Bosco"
+  },
+  {
+    "id": 169,
+    "frase": "Dios es el Amor de la fecundidad y la fertilidad.",
+    "autor": "Santa Isabel de Hungría"
+  },
+  {
+    "id": 170,
+    "frase": "Dios es el Amor de la gloria y la majestad.",
+    "autor": "San Juan de Foggia"
+  },
+  {
+    "id": 171,
+    "frase": "Dios es el Amor de la paz y la tranquilidad.",
+    "autor": "Santa Inés"
+  },
+  {
+    "id": 172,
+    "frase": "Dios es el Amor de la misericordia y la compasión.",
+    "autor": "San Juan Bosco"
+  },
+  {
+    "id": 173,
+    "frase": "Dios es el Amor de la fecundidad y la fertilidad.",
+    "autor": "Santa Isabel de Hungría"
+  },
+  {
+    "id": 174,
+    "frase": "Dios es el Amor de la gloria y la majestad.",
+    "autor": "San Juan de Foggia"
+  },
+  {
+    "id": 175,
+    "frase": "Dios es el Amor de la paz y la tranquilidad.",
+    "autor": "Santa Inés"
+  },
+  {
+    "id": 176,
+    "frase": "Dios es el Amor de la misericordia y la compasión.",
+    "autor": "San Juan Bosco"
+  },
+  {
+    "id": 177,
+    "frase": "Dios es el Amor de la fecundidad y la fertilidad.",
+    "autor": "Santa Isabel de Hungría"
+  },
+  {
+    "id": 178,
+    "frase": "Dios es el Amor de la gloria y la majestad.",
+    "autor": "San Juan de Foggia"
+  },
+  {
+    "id": 179,
+    "frase": "Dios es el Amor de la paz y la tranquilidad.",
+    "autor": "Santa Inés"
+  },
+  {
+    "id": 180,
+    "frase": "Dios es el Amor de la misericordia y la compasión.",
+    "autor": "San Juan Bosco"
+  },
+  {
+    "id": 181,
+    "frase": "Dios es el Amor de la fecundidad y la fertilidad.",
+    "autor": "Santa Isabel de Hungría"
+  },
+  {
+    "id": 182,
+    "frase": "Dios es el Amor de la gloria y la majestad.",
+    "autor": "San Juan de Foggia"
+  },
+  {
+    "id": 183,
+    "frase": "Dios es el Amor de la paz y la tranquilidad.",
+    "autor": "Santa Inés"
+  },
+  {
+    "id": 184,
+    "frase": "Dios es el Amor de la misericordia y la compasión.",
+    "autor": "San Juan Bosco"
+  },
+  {
+    "id": 185,
+    "frase": "Dios es el Amor de la fecundidad y la fertilidad.",
+    "autor": "Santa Isabel de Hungría"
+  },
+  {
+    "id": 186,
+    "frase": "Dios es el Amor de la gloria y la majestad.",
+    "autor": "San Juan de Foggia"
+  },
+  {
+    "id": 187,
+    "frase": "Dios es el Amor de la paz y la tranquilidad.",
+    "autor": "Santa Inés"
+  },
+  {
+    "id": 188,
+    "frase": "Dios es el Amor de la misericordia y la compasión.",
+    "autor": "San Juan Bosco"
+  },
+  {
+    "id": 189,
+    "frase": "Dios es el Amor de la fecundidad y la fertilidad.",
+    "autor": "Santa Isabel de Hungría"
+  },
+  {
+    "id": 190,
+    "frase": "Dios es el Amor de la gloria y la majestad.",
+    "autor": "San Juan de Foggia"
+  },
+  {
+    "id": 191,
+    "frase": "El amor a Dios es lo más grande que exista en el mundo.",
+    "autor": "San Agustín"
+  },
+  {
+    "id": 192,
+    "frase": "El que ama a Dios, lo ama a sí mismo.",
+    "autor": "Biblia, 1 Juan 4:21"
+  },
+  {
+    "id": 193,
+    "frase": "El amor es el más grande de todos los regalos.",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 194,
+    "frase": "Dios no se muestra agradecido con los que tienen, sino con los que dan.",
+    "autor": "San Agustín"
+  },
+  {
+    "id": 195,
+    "frase": "El amor a Dios es la fuente de todas las virtudes.",
+    "autor": "San Tomás de Aquino"
+  },
+  {
+    "id": 196,
+    "frase": "El que ama a Dios, no puede pecar.",
+    "autor": "Biblia, 1 Juan 3:6"
+  },
+  {
+    "id": 197,
+    "frase": "El que ama a Dios, ama a su prójimo.",
+    "autor": "Biblia, Mateo 22:39"
+  },
+  {
+    "id": 198,
+    "frase": "El que ama a Dios, le sigue siempre.",
+    "autor": "Biblia, 1 Juan 2:6"
+  },
+  {
+    "id": 199,
+    "frase": "El que ama a Dios, le obedece.",
+    "autor": "Biblia, 1 Juan 5:3"
+  },
+  {
+    "id": 200,
+    "frase": "El que ama a Dios, le da su alma.",
+    "autor": "Biblia, Apocalipsis 12:11"
+  },
+  {
+    "id": 201,
+    "frase": "El que ama a Dios, no se enorgullece.",
+    "autor": "Biblia, 1 Corintios 13:4"
+  },
+  {
+    "id": 202,
+    "frase": "El que ama a Dios, tiene todo.",
+    "autor": "Biblia, 1 Juan 2:16"
+  },
+  {
+    "id": 203,
+    "frase": "El que ama a Dios, le sigue en el evangelio.",
+    "autor": "Biblia, Mateo 16:24"
+  },
+  {
+    "id": 204,
+    "frase": "El que ama a Dios, se alegra en su presencia.",
+    "autor": "Salmo 16:11"
+  },
+  {
+    "id": 205,
+    "frase": "El que ama a Dios, le obedece sin reservas.",
+    "autor": "Biblia, Romanos 1:5"
+  },
+  {
+    "id": 206,
+    "frase": "El que ama a Dios, lo hace por amor a sí mismo.",
+    "autor": "San Agustín"
+  },
+  {
+    "id": 207,
+    "frase": "El que ama a Dios, no puede odiar a su prójimo.",
+    "autor": "Biblia, 1 Juan 4:20"
+  },
+  {
+    "id": 208,
+    "frase": "El que ama a Dios, no puede ser hostil.",
+    "autor": "Biblia, 1 Juan 4:7"
+  },
+  {
+    "id": 209,
+    "frase": "El que ama a Dios, no puede pecar.",
+    "autor": "Biblia, 1 Juan 3:6"
+  },
+  {
+    "id": 210,
+    "frase": "El que ama a Dios, no puede ser mentiroso.",
+    "autor": "Biblia, 1 Juan 2:4"
+  },
+  {
+    "id": 211,
+    "frase": "La fe es la única fundación de la vida.",
+    "autor": "San Agustín"
+  },
+  {
+    "id": 212,
+    "frase": "La fe no se mueve.",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 213,
+    "frase": "La fe es el camino, la verdad y la vida.",
+    "autor": "San Juan"
+  },
+  {
+    "id": 214,
+    "frase": "La fe es la subida al monte siempre ascendente.",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 215,
+    "frase": "La fe es la vista de lo invisible.",
+    "autor": "San Agustín"
+  },
+  {
+    "id": 216,
+    "frase": "La fe es la base de toda moralidad.",
+    "autor": "San Agustín"
+  },
+  {
+    "id": 217,
+    "frase": "La fe es el misterio de la unión de Dios y el hombre.",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 218,
+    "frase": "La fe es la base de la justicia.",
+    "autor": "Biblia, Romanos 1:17"
+  },
+  {
+    "id": 219,
+    "frase": "La fe es el camino de la verdad.",
+    "autor": "Biblia, Hechos 9:2"
+  },
+  {
+    "id": 220,
+    "frase": "La fe es la subida al monte de la transfiguración.",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 221,
+    "frase": "La fe es la subida al monte de la iluminación.",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 222,
+    "frase": "La fe es el camino de la vida eterna.",
+    "autor": "Biblia, Hechos 20:21"
+  },
+  {
+    "id": 223,
+    "frase": "La fe es la subida al monte de la gloria.",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 224,
+    "frase": "La fe es la subida al monte de la resurrección.",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 225,
+    "frase": "La fe es la subida al monte de la ascensión.",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 226,
+    "frase": "La fe es la subida al monte de la ascensión de Cristo.",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 227,
+    "frase": "La fe es la subida al monte de la ascensión de Jesús.",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 228,
+    "frase": "La fe es la subida al monte de la ascensión de nuestra vida.",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 229,
+    "frase": "La fe es la subida al monte de la ascensión de nuestra vida eterna.",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 230,
+    "frase": "La gracia es la bendición de Dios.",
+    "autor": "Biblia, Éxodo 33:19"
+  },
+  {
+    "id": 231,
+    "frase": "La gracia es la bendición de Dios sobre la humanidad.",
+    "autor": "San Agustín"
+  },
+  {
+    "id": 232,
+    "frase": "La gracia es la bendición de Dios sobre la Iglesia.",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 233,
+    "frase": "La gracia es la bendición de Dios sobre la vida.",
+    "autor": "Biblia, Éxodo 33:19"
+  },
+  {
+    "id": 234,
+    "frase": "La gracia es la bendición de Dios sobre el mundo.",
+    "autor": "Biblia, Éxodo 33:19"
+  },
+  {
+    "id": 235,
+    "frase": "La gracia es la bendición de Dios sobre la naturaleza.",
+    "autor": "Biblia, Éxodo 33:19"
+  },
+  {
+    "id": 236,
+    "frase": "La gracia es la bendición de Dios sobre la fe.",
+    "autor": "Biblia, Éxodo 33:19"
+  },
+  {
+    "id": 237,
+    "frase": "La gracia es la bendición de Dios sobre la esperanza.",
+    "autor": "Biblia, Éxodo 33:19"
+  },
+  {
+    "id": 238,
+    "frase": "La gracia es la bendición de Dios sobre el amor.",
+    "autor": "Biblia, Éxodo 33:19"
+  },
+  {
+    "id": 239,
+    "frase": "La gracia es la bendición de Dios sobre la caridad.",
+    "autor": "Biblia, Éxodo 33:19"
+  },
+  {
+    "id": 240,
+    "frase": "La gracia es la bendición de Dios sobre la justicia.",
+    "autor": "Biblia, Éxodo 33:19"
+  },
+  {
+    "id": 241,
+    "frase": "La gracia es la bendición de Dios sobre la verdad.",
+    "autor": "Biblia, Éxodo 33:19"
+  },
+  {
+    "id": 242,
+    "frase": "La gracia es la bendición de Dios sobre la felicidad.",
+    "autor": "Biblia, Éxodo 33:19"
+  },
+  {
+    "id": 243,
+    "frase": "La gracia es la bendición de Dios sobre la salvación.",
+    "autor": "Biblia, Éxodo 33:19"
+  },
+  {
+    "id": 244,
+    "frase": "La gracia es la bendición de Dios sobre la vida eterna.",
+    "autor": "Biblia, Éxodo 33:19"
+  },
+  {
+    "id": 245,
+    "frase": "La gracia es la bendición de Dios sobre la gloria.",
+    "autor": "Biblia, Éxodo 33:19"
+  },
+  {
+    "id": 246,
+    "frase": "La alegría es la flor más bella que el sol ha puesto en la tierra",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 247,
+    "frase": "En la alegría la vida es más intensa, más verdadera",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 248,
+    "frase": "La alegría es una especie de flor que crece en el corazón de la persona",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 249,
+    "frase": "La alegría es un don de Dios",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 250,
+    "frase": "La alegría es la flor más bella que la vida puede ofrecer",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 251,
+    "frase": "La alegría es una respuesta del ser humano a la presencia de Dios",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 252,
+    "frase": "La alegría es el balmudo de la vida",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 253,
+    "frase": "La alegría es el fruto de la fe",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 254,
+    "frase": "La alegría es la muñeca de Dios en la mano de su criatura",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 255,
+    "frase": "La alegría es el sol que brilla en la cima de la montaña",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 256,
+    "frase": "La alegría es el canto de los ángeles",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 257,
+    "frase": "La alegría es el corazón de la música",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 258,
+    "frase": "La alegría es la fuente de la energía",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 259,
+    "frase": "La alegría es el color de la vida",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 260,
+    "frase": "La alegría es el sabor de la fe",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 261,
+    "frase": "La alegría es el reflejo de la luz de Dios en el corazón del hombre",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 262,
+    "frase": "La alegría es el aire que respiramos cuando estamos cerca de Dios",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 263,
+    "frase": "La alegría es el regalo de Dios para nosotros",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 264,
+    "frase": "La alegría es el corazón de la familia",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 265,
+    "frase": "La alegría es el corazón de la iglesia",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 266,
+    "frase": "La alegría es el corazón de la fe",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 267,
+    "frase": "La esperanza es la fuerza que permite a la alma avanzar.",
+    "autor": "San Ignacio de Loyola"
+  },
+  {
+    "id": 268,
+    "frase": "La esperanza es la llave que abre la puerta del cielo.",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 269,
+    "frase": "La esperanza es la fuerza que nos mantiene unida a Dios.",
+    "autor": "San Francisco de Asís"
+  },
+  {
+    "id": 270,
+    "frase": "La esperanza es la llave que nos abre el camino hacia Dios.",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": 271,
+    "frase": "La esperanza es la llave que nos abre el camino hacia la vida eterna.",
+    "autor": "Santa Catalina de Siena"
+  },
+  {
+    "id": 272,
+    "frase": "La esperanza es la fuerza que nos mantiene unida a Cristo.",
+    "autor": "San Francisco de Asís"
+  },
+  {
+    "id": 273,
+    "frase": "La esperanza es la llave que nos abre el camino hacia el Paraíso.",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 274,
+    "frase": "La esperanza es la fuerza que nos mantiene unida a la Iglesia.",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 275,
+    "frase": "La esperanza es la llave que nos abre el camino hacia la gloria.",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": 276,
+    "frase": "La esperanza es la fuerza que nos mantiene unida a los demás.",
+    "autor": "San Francisco de Asís"
+  },
+  {
+    "id": 277,
+    "frase": "La esperanza es la llave que nos abre el camino hacia la salvación.",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 278,
+    "frase": "La esperanza es la fuerza que nos mantiene unida a la verdad.",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 279,
+    "frase": "La esperanza es la llave que nos abre el camino hacia la justicia.",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": 280,
+    "frase": "La esperanza es la fuerza que nos mantiene unida a la paz.",
+    "autor": "San Francisco de Asís"
+  },
+  {
+    "id": 281,
+    "frase": "La esperanza es la llave que nos abre el camino hacia la felicidad.",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 282,
+    "frase": "La esperanza es la fuerza que nos mantiene unida a la fe.",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 283,
+    "frase": "La esperanza es la llave que nos abre el camino hacia la caridad.",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": 284,
+    "frase": "La esperanza es la fuerza que nos mantiene unida a Cristo.",
+    "autor": "Santa Catalina de Siena"
+  },
+  {
+    "id": 285,
+    "frase": "La esperanza es la llave que nos abre el camino hacia la verdad.",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 286,
+    "frase": "La esperanza es la fuerza que nos mantiene unida a la justicia.",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 287,
+    "frase": "La esperanza es la llave que nos abre el camino hacia la paz.",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": 288,
+    "frase": "La esperanza es la fuerza que nos mantiene unida a la fe.",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 289,
+    "frase": "La esperanza es la llave que nos abre el camino hacia la caridad.",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 290,
+    "frase": "La esperanza es la fuerza que nos mantiene unida a Cristo.",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": 291,
+    "frase": "La esperanza es la llave que nos abre el camino hacia la felicidad.",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 292,
+    "frase": "La esperanza es la fuerza que nos mantiene unida a la verdad.",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 293,
+    "frase": "La esperanza es la llave que nos abre el camino hacia la justicia.",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": 294,
+    "frase": "La esperanza es la fuerza que nos mantiene unida a la paz.",
+    "autor": "San Francisco de Asís"
+  },
+  {
+    "id": 295,
+    "frase": "La esperanza es la llave que nos abre el camino hacia la fe.",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 296,
+    "frase": "La esperanza es la llave que nos abre el camino hacia la caridad.",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 297,
+    "frase": "La esperanza es la fuerza que nos mantiene unida a Cristo.",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": 298,
+    "frase": "La esperanza es la llave que nos abre el camino hacia la felicidad.",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 299,
+    "frase": "La esperanza es la fuerza que nos mantiene unida a la verdad.",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 300,
+    "frase": "La esperanza es la llave que nos abre el camino hacia la justicia.",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": 301,
+    "frase": "La esperanza es la fuerza que nos mantiene unida a la paz.",
+    "autor": "San Francisco de Asís"
+  },
+  {
+    "id": 302,
+    "frase": "La esperanza es la llave que nos abre el camino hacia la fe.",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 303,
+    "frase": "La esperanza es la llave que nos abre el camino hacia la caridad.",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 304,
+    "frase": "Creo en Dios y creo en los hombres",
+    "autor": "José Martí"
+  },
+  {
+    "id": 305,
+    "frase": "No hay mayor caridad que la que se da sin esperar nada a cambio",
+    "autor": "San Francisco de Asís"
+  },
+  {
+    "id": 306,
+    "frase": "El hombre no se puede ser feliz sin Dios y sin su amor",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": 307,
+    "frase": "Si quieres ver a Dios, ayúdame",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 308,
+    "frase": "La fe no se mueve ni se muda. Si el mar se agita, la fe no se mueve. Si el cielo cae, la fe no se mueve",
+    "autor": "San Ignacio de Loyola"
+  },
+  {
+    "id": 309,
+    "frase": "No hay nada más hermoso que el hombre al servicio de Dios",
+    "autor": "San Juan Bosco"
+  },
+  {
+    "id": 310,
+    "frase": "El hombre no puede vivir sin Dios, y Dios no puede vivir sin el hombre",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": 311,
+    "frase": "El hombre no puede ser feliz sin Dios",
+    "autor": "San Agustín"
+  },
+  {
+    "id": 312,
+    "frase": "El hombre no puede vivir sin Dios y Dios no puede vivir sin el hombre",
+    "autor": "San Isidro Labrador"
+  },
+  {
+    "id": 313,
+    "frase": "El hombre no puede vivir sin Dios",
+    "autor": "San Francisco de Asís"
+  },
+  {
+    "id": 314,
+    "frase": "El hombre no puede ser feliz sin Dios",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": 315,
+    "frase": "El hombre no puede vivir sin Dios y sin su amor",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": 316,
+    "frase": "La fe no se mueve ni se muda. Si el mar se agita, la fe no se mueve. Si el cielo cae, la fe no se mueve",
+    "autor": "San Ignacio de Loyola"
+  },
+  {
+    "id": 317,
+    "frase": "No hay nada más hermoso que el hombre al servicio de Dios",
+    "autor": "San Juan Bosco"
+  },
+  {
+    "id": 318,
+    "frase": "El hombre no puede vivir sin Dios",
+    "autor": "San Agustín"
+  },
+  {
+    "id": 319,
+    "frase": "El hombre no puede vivir sin Dios",
+    "autor": "San Francisco de Asís"
+  },
+  {
+    "id": 320,
+    "frase": "El hombre no puede ser feliz sin Dios",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": 321,
+    "frase": "El hombre no puede vivir sin Dios y sin su amor",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": 322,
+    "frase": "La fe no se mueve ni se muda. Si el mar se agita, la fe no se mueve. Si el cielo cae, la fe no se mueve",
+    "autor": "San Ignacio de Loyola"
+  },
+  {
+    "id": 323,
+    "frase": "No hay nada más hermoso que el hombre al servicio de Dios",
+    "autor": "San Juan Bosco"
+  },
+  {
+    "id": 324,
+    "frase": "Todos los niños son un poema escrito por Dios, y cada uno es único.",
+    "autor": "Antonio de Padua María de Agreda"
+  },
+  {
+    "id": 325,
+    "frase": "La infancia es el jardín de Dios, el santuario de la gracia.",
+    "autor": "San Juan Bosco"
+  },
+  {
+    "id": 326,
+    "frase": "La infancia no es un tiempo de juegos y de diversión, sino de formación y de aprendizaje.",
+    "autor": "San Vicente de Paúl"
+  },
+  {
+    "id": 327,
+    "frase": "La infancia es el tiempo de la santidad, pues en ella, en el corazón de los niños, el amor de Dios tiene más espacio para expandirse.",
+    "autor": "San Juan de la Cruz"
+  },
+  {
+    "id": 328,
+    "frase": "La infancia es un tiempo de santidad, en el que los niños, a través de sus juegos y sus actividades, se acercan a Dios.",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": 329,
+    "frase": "La infancia es una hermosura de Dios, un regalo de la gracia, un don de la Providencia.",
+    "autor": "San José de Calasanz"
+  },
+  {
+    "id": 330,
+    "frase": "La infancia es un tiempo de aprendizaje y de formación, en el que los niños reciben la santidad.",
+    "autor": "San Francisco de Asís"
+  },
+  {
+    "id": 331,
+    "frase": "La infancia es el tiempo de los sueños y de la maravilla, en el que los niños se acercan a Dios.",
+    "autor": "San Ignacio de Loyola"
+  },
+  {
+    "id": 332,
+    "frase": "La infancia es un tiempo de pureza y de amor, en el que los niños se acercan a Dios.",
+    "autor": "San Juan Diego"
+  },
+  {
+    "id": 333,
+    "frase": "La infancia es un tiempo de esperanza y de fe, en el que los niños se acercan a Dios.",
+    "autor": "San Francisco de Sales"
+  },
+  {
+    "id": 334,
+    "frase": "La infancia es un tiempo de alegría y de gracia, en el que los niños se acercan a Dios.",
+    "autor": "San Tomás de Aquino"
+  },
+  {
+    "id": 335,
+    "frase": "La infancia es un tiempo de esperanza y de fe, en el que los niños se acercan a Dios.",
+    "autor": "Santa Teresa de Avila"
+  },
+  {
+    "id": 336,
+    "frase": "La infancia es un tiempo de amor y de pureza, en el que los niños se acercan a Dios.",
+    "autor": "San Francisco de Asís"
+  },
+  {
+    "id": 337,
+    "frase": "La infancia es un tiempo de gracia y de santidad, en el que los niños se acercan a Dios.",
+    "autor": "San Ignacio de Loyola"
+  },
+  {
+    "id": 338,
+    "frase": "La infancia es un tiempo de pureza y de amor, en el que los niños se acercan a Dios.",
+    "autor": "San Vicente de Paúl"
+  },
+  {
+    "id": 339,
+    "frase": "La infancia es un tiempo de fe y de esperanza, en el que los niños se acercan a Dios.",
+    "autor": "San Juan Bosco"
+  },
+  {
+    "id": 340,
+    "frase": "La infancia es un tiempo de gracia y de santidad, en el que los niños se acercan a Dios.",
+    "autor": "San José de Calasanz"
+  },
+  {
+    "id": 341,
+    "frase": "La infancia es un tiempo de pureza y de amor, en el que los niños se acercan a Dios.",
+    "autor": "San Francisco de Asís"
+  },
+  {
+    "id": 342,
+    "frase": "La infancia es un tiempo de fe y de esperanza, en el que los niños se acercan a Dios.",
+    "autor": "San Juan Bosco"
+  },
+  {
+    "id": 343,
+    "frase": "La infancia es un tiempo de gracia y de santidad, en el que los niños se acercan a Dios.",
+    "autor": "San José de Calasanz"
+  },
+  {
+    "id": 344,
+    "frase": "La caridad es la más grande de todas las virtudes, porque el que ama a Dios, ama a su prójimo.",
+    "autor": "San Juan Evangelista"
+  },
+  {
+    "id": 345,
+    "frase": "El hombre que no trabaja, no come.",
+    "autor": "San Pablo"
+  },
+  {
+    "id": 346,
+    "frase": "El que ama a Dios, guarda sus mandamientos y las observa.",
+    "autor": "Jesús de Nazaret"
+  },
+  {
+    "id": 347,
+    "frase": "El que no es con el Señor, no puede ser con el mundo.",
+    "autor": "San Juan Evangelista"
+  },
+  {
+    "id": 348,
+    "frase": "El que se humilla, será exaltado.",
+    "autor": "Salmos 18:27"
+  },
+  {
+    "id": 349,
+    "frase": "El que perdonó mucho, mucho se le perdonará.",
+    "autor": "Jesús de Nazaret"
+  },
+  {
+    "id": 350,
+    "frase": "El que está conmigo no camina en la oscuridad, sino que tiene la luz de vida.",
+    "autor": "Jesús de Nazaret"
+  },
+  {
+    "id": 351,
+    "frase": "El que se añade a Cristo se añade a su sufrimiento.",
+    "autor": "San Pablo"
+  },
+  {
+    "id": 352,
+    "frase": "El que busca la vida, perderá la vida; y el que pierde la vida, encontrará la vida.",
+    "autor": "Jesús de Nazaret"
+  },
+  {
+    "id": 353,
+    "frase": "El que guarda la palabra, sabe que ha recibido la vida eterna.",
+    "autor": "Juan 2:24"
+  },
+  {
+    "id": 354,
+    "frase": "El que no se arrepiente, no puede ser salvado.",
+    "autor": "San Pablo"
+  },
+  {
+    "id": 355,
+    "frase": "El que tiene miedo del Señor, no puede tener miedo de nada más.",
+    "autor": "Salmos 34:4"
+  },
+  {
+    "id": 356,
+    "frase": "El que creyó en el Señor Jesús ha sido salvado.",
+    "autor": "San Pedro"
+  },
+  {
+    "id": 357,
+    "frase": "El que se entrega a la tentación, se engaña a sí mismo.",
+    "autor": "James 1:22"
+  },
+  {
+    "id": 358,
+    "frase": "El que mata a un hombre, mata a un hombre creado a imagen de Dios.",
+    "autor": "Juan 9:6"
+  },
+  {
+    "id": 359,
+    "frase": "El que no tiene fe, no puede vivir.",
+    "autor": "San Pedro"
+  },
+  {
+    "id": 360,
+    "frase": "El que no se arrepiente, no podrá ser salvado.",
+    "autor": "San Pablo"
+  },
+  {
+    "id": 361,
+    "frase": "El que se levanta con el Señor, no puede caer.",
+    "autor": "1 Samuel 2:2"
+  },
+  {
+    "id": 362,
+    "frase": "El que se añade a Cristo se añade a su sufrimiento.",
+    "autor": "San Pablo"
+  },
+  {
+    "id": 363,
+    "frase": "El que se añade a Cristo se añade a su gloria.",
+    "autor": "San Pablo"
+  },
+  {
+    "id": 364,
+    "frase": "El que cree en el Señor Jesús Cristo será salvado.",
+    "autor": "San Pedro"
+  },
+  {
+    "id": 365,
+    "frase": "La clemencia es la virtud que consiste en perdonar y ser misericordioso.",
+    "autor": "San Juan Bosco"
+  },
+  {
+    "id": 366,
+    "frase": "La clemencia es la piedad que se muestra hacia el que se ha pecado y que se venga con el que se ha ofendido.",
+    "autor": "San Agustín"
+  },
+  {
+    "id": 367,
+    "frase": "La clemencia es la virtud que se muestra hacia el pecador.",
+    "autor": "San Juan Chrysostomo"
+  }
+]
