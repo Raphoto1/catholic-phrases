@@ -7,12 +7,15 @@ export default function generate() {
    
   return (
       <section className='flex justify-center items-center h-screen'>
+      <form action='' className='max-w-xl w-full' onSubmit={handleSubmit}>
+        <div className="text-white max-h-96 h-full overflow-y-auto">
           {messages.map(message => (
-              <div className={`flex flex-col mb-2 p-2 rounded-md ${ message.role === 'assistant'?'self-end bg-gray-800':'self-start bg-blue-700'}`} key={message.id}>
+              <div className={`flex flex-col mb-2 p-2 rounded-md ${ message.role === 'assistant'?'self-end text-right bg-gray-800':'self-start bg-blue-700'}`} key={message.id}>
 {message.content}                  
               </div>
           ))}
-      <form action='' className='max-w-xl w-full' onSubmit={handleSubmit}>
+
+        </div>
         <div className='flex justify-between my-4'>
           <label className='text-white block font-bold my-2'> say something...</label>
           <button className='bg-blue-600 text-white px-3 py-2 rounded-md focus:outline-none'>Send</button>

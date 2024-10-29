@@ -10,8 +10,11 @@ export const runtime = "edge";
 
 export async function POST(req) {
   const { messages } = await req.json();
+
+  
   const response = await openai.createCompletion({
     model: "mistral-ins-7b-q4",
+    system:'you are an assistant that only answers in spanish and will finish avery response with this phrarse "sii te estoy entendiendo rey"',
     stream: true,
     messages,
     stop: ["hello"],
