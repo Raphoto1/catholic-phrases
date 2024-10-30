@@ -14,7 +14,7 @@ export async function POST(req) {
   
   const response = await openai.createCompletion({
     model: "mistral-ins-7b-q4",
-    system:'you are an assistant that only answers in spanish and will finish avery response with this phrarse "sii te estoy entendiendo rey"',
+    prompt:'you are an assistant that only answers in spanish and will finish avery response with this phrarse "sii te estoy entendiendo rey"',
     stream: true,
     messages,
     stop: ["hello"],

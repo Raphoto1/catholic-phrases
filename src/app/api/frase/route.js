@@ -1,86 +1,35 @@
-import { createOpenAI } from "@ai-sdk/openai";
-import { convertToCoreMessages, streamText } from "ai";
-import axios from "axios";
+import { OpenAIStream, StreamingTextResponse } from "ai";
+import { Configuration, OpenAIApi } from "openai-edge";
 
-const openaiInternal = createOpenAI({
-  baseURL: "http://localhost:1337/v1/chat/completions",
+// Create an OpenAI API client (that's edge friendly!)
+const config = new Configuration({
   apiKey: process.env.OPENAI_API_KEY,
-  model: "mistral-ins-7b-q4",
-  stream: true,
-  max_tokens: 2048,
-  compatibility: "strict",
-  frequency_penalty: 0,
-  presence_penalty: 0,
-  temperature: 0.7,
-  top_p: 0.95,
-  messages: [
-    { role: "system", content: "You are a helpful assistant." },
-    {
-      role: "user",
-      content: "Write a haiku about recursion in programming.",
-    },
-  ],
+  basePath: "http://127.0.0.1:1337/v1",
 });
+const openai = new OpenAIApi(config);
 
-export async function POST(request) {
-  const { messages } = await request.json();
-  console.log(messages);
-  const result = streamText({
-    baseURL: "http://localhost:1337/v1/chat/completions",
-    apiKey: process.env.OPENAI_API_KEY,
+// IMPORTANT! Set the runtime to edge
+export const runtime = "edge";
+
+export async function POST(req) {
+  const brainPrepare = `you are an assistant that only answers in spanish,
+  I'm giving you an author, an initial id that is autoincremental and how many phrases of the author to search,
+  I need you to search phrases and 5 hashtags that fits to each phrase, add the symbol # to the begining of each hashtag,
+  format it as a json file,with the following format, {id, frase, autor, hashtags}. response must be only a json file, don't verbose`;
+  // Extract the `messages` from the body of the request
+  const { messages } = await req.json();
+
+  // Ask OpenAI for a streaming chat completion given the prompt
+  const response = await openai.createChatCompletion({
     model: "mistral-ins-7b-q4",
-    messages: convertToCoreMessages(messages),
+    stream: true,
+    messages: [...messages, { role: "system", content: brainPrepare }],
   });
-  return result.finally();
+  // Convert the response into a friendly text-stream
+  const stream = OpenAIStream(response);
+  // Respond with the stream
+  return new StreamingTextResponse(stream);
 }
-
-//POST CON AXIOS RESPONDE
-// export async function POST(request) {
-//   const { messages } = await request.json();
-
-//   let data = JSON.stringify({
-//     messages: [
-//       {
-//         content: "You are a helpful assistant.",
-//         role: "system",
-//       },
-//       messages[0],
-//     ],
-//     model: "mistral-ins-7b-q4",
-//     stream: true,
-//     max_tokens: 2048,
-//     stop: ["hello"],
-//     frequency_penalty: 0,
-//     presence_penalty: 0,
-//     temperature: 0.7,
-//     top_p: 0.95,
-//   });
-
-//   let config = {
-//     method: "post",
-//     maxBodyLength: Infinity,
-//     url: "http://127.0.0.1:1337/v1/chat/completions",
-//     headers: {
-//       "Content-Type": "application/json",
-//     },
-//     data: data,
-//   };
-
-//   const response = axios
-//     .request(config)
-//     .then((response) => {
-//       console.log(JSON.stringify(response.data));
-//     })
-//     .catch((error) => {
-//       console.log(error);
-//     });
-
-//   const stream = OpenAIStream(response);
-//   console.log(stream);
-
-//   return new StreamingTextResponse(stream);
-// }
-
 
 //FUNCIONA
 //cuidado con la ruta
